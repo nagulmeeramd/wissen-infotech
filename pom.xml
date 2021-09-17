@@ -4,6 +4,7 @@
   <groupId>simplejava</groupId>
   <artifactId>wissen-infotech</artifactId>
   <packaging>jar</packaging>
+  <version>1.0</version>
   <name>wissen-infotech</name>
   <url>http://maven.apache.org</url>
   <properties>
